@@ -1,0 +1,24 @@
+.roomInfo{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 100px;
+    font-size: x-large;
+}
+span{
+    font-weight: bold;
+}
+.item{
+    width: 110px;
+    height:40px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.itemOptions{
+    width: 200px;
+    border: 2px solid #0099ff;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color: #d6efff;
+    text-align: center;
+}

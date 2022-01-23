@@ -1,0 +1,16 @@
+.iconContainer{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 1%;
+}
+
+.icon{
+    font-size: 300%;
+    color: black;
+}
+.icon:hover{
+    color: rgb(105, 102, 102);
+}
+.icon:active{
+    color: rgb(54, 54, 54);
+}
